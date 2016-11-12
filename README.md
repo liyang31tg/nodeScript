@@ -7,3 +7,8 @@
 ```
 npm install runkoa -g //全局先安装运行环境
 ```
+
+运行,相应的修改`inputStr`和`outputStr`
+```
+runkoa copyFile.js 
+```
